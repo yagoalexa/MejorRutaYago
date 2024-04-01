@@ -15,3 +15,4 @@ env\Scripts\activate
 pip install networkx
 ```
 6. Para  el proyecto en la misma terminal ejecutar el siguiete comando `python main.py`
+7. Para realizar las pruebas se debe cambiar las estaciones en las lineas 27 para **Estación** de origen y 28 para **Estación** de destino
